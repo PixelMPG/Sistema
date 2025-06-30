@@ -1,0 +1,1 @@
+print("Primera LOC modulo 1")
